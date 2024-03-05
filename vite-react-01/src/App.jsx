@@ -1,11 +1,13 @@
-
-
+import Anurag from "./home";
 function App() {
 
   return (
+    <>
+    <Anurag/>
   <h1>
-    React day 01 with vite
-  </h1>    
+    React day 02 with vite
+  </h1>  
+  </>  
   )
 }
 
